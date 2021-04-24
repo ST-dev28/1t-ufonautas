@@ -7,7 +7,7 @@ color: white;
 header {
 display: inline-block;
 width: 800px;
-background-color: chartreuse;
+background-color: #4E4088;
 margin-left: calc(50%-400px);
 margin-top: 2%;
 color: white;
@@ -63,7 +63,7 @@ main {
 display: inline-block;
 width: 800px;
 margin-left: calc(50%-400px);
-background-color: coral;
+background-color: #4E4088;
     
 }
 
