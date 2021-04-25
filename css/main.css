@@ -70,6 +70,7 @@ float: left;
 margin-top: 5%;
 margin-bottom: 5%;
 margin-left: 3%;
+text-align: left;
 
 }
     
@@ -84,10 +85,15 @@ margin-right: 3%;
 h1 { 
 display: inline-block;
 width: 100%;
+float: right;
 margin: 0%;
 font-size: 36px;
 line-height: 46px;
 text-transform: uppercase;
+}
+
+#wrong {
+color: #DD3E62;
 }
     
 p { 
@@ -101,7 +107,7 @@ line-height: 26px;
 
 div > a {
 display: inline-block;
-border: 2px dashed red;
+border: 2px dashed #DD3E62;
 border-radius: 20px;
 font-size: 15px;
 padding: 10px;
