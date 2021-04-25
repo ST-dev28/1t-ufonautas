@@ -8,61 +8,57 @@ header {
 display: inline-block;
 width: 800px;
 background-color: #4E4088;
-margin-left: calc(50%-400px);
-margin-top: 2%;
-color: white;
+margin-left: calc(50% - 400px);
+margin-top: 3%;
 }
     
 header > img {
 display: inline-block;
-height: 15px;  
+height: 20px;  
 float: left;
-margin-top: 2%;
-
  }
 
 header > a {
 display: inline-block;
-height: 10px;
+font-size: 20px; 
 float: left;
-margin-top: 2%;
 margin-left: 2%;
 font-weight: bold;
 color: white;
+text-decoration: none;
 }
       
 nav { 
 display: inline-block;
 float: right;
 font-weight: bold;
- 
-}
+ }
 
 nav > a { 
 display: inline-block;
 float: left;
 line-height: 0px;
 font-size: 15px;
-border: 2px solid transparent;
-margin-top: 2%;
-padding: 20px;
-color: white;   
+border: 1px solid transparent;
+padding: 10px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+font-weight: bold;
+text-decoration: none;
+
 }
 
 nav > a:last-of-type {
-display: inline-block;
-float: left;
-line-height: 0px;
-font-size: 15px;
-border: 2px black; 
+border: 3px #625795; 
 border-left-style: solid; 
-padding: 20px; 
+padding: 12px; 
 }
     
 main { 
 display: inline-block;
 width: 800px;
-margin-left: calc(50%-400px);
+margin-left: calc(50% - 400px);
 background-color: #4E4088;
     
 }
@@ -73,30 +69,32 @@ width: 45%;
 float: left;
 margin-top: 5%;
 margin-bottom: 5%;
+margin-left: 3%;
 
 }
     
 div { 
 display: inline-block;
-width: 30%;  
-float: left;
-margin-top: 80px;
-margin-left: 8%;
+width: 40%;  
+float: right;
+margin-top: 8%;
+margin-right: 3%;
 }
     
 h1 { 
 display: inline-block;
 width: 100%;
 margin: 0%;
-font-size: 40px;
-line-height: 40px;
+font-size: 36px;
+line-height: 46px;
+text-transform: uppercase;
 }
     
 p { 
 display: inline-block;
 width: 100%;
 margin-top: 10%;
-font-size: 20px;
+font-size: 21px;
 line-height: 26px;     
     
 }
@@ -106,10 +104,12 @@ display: inline-block;
 border: 2px dashed red;
 border-radius: 20px;
 font-size: 15px;
-padding: 8px;
+padding: 10px;
 padding-left: 30px;
 padding-right: 30px;
+margin-top: 2%;
 text-decoration: none; 
 text-transform: uppercase;
 color: white;
+font-weight: bold;
 }
