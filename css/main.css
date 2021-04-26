@@ -91,11 +91,7 @@ font-size: 36px;
 line-height: 46px;
 text-transform: uppercase;
 }
-
-#wrong {
-color: #DD3E62;
-}
-    
+  
 p { 
 display: inline-block;
 width: 100%;
