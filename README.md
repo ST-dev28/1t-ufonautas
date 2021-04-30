@@ -11,7 +11,7 @@ This project is for educational porpose only. First stepts into programming worl
 
 Site published at https://st-dev28.github.io/1t-ufonautas/
 
-Design: [Ufonautas] https://cdn.discordapp.com/attachments/833468929020133416/835468918218817566/unknown.png
+Design: [Ufonautas](https://cdn.discordapp.com/attachments/833468929020133416/835468918218817566/unknown.png)
 
 ## Project features
 
